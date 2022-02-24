@@ -12,3 +12,17 @@ We'll start off by diving into the basics of writing a computer program. Along t
 
 The repository contains all Programming Assignment for the [course](https://www.coursera.org/learn/python-crash-course/home/welcome).
 
+
+## Step-by-Step procedure to download code
+
+* Navigate to the `<>Code` tab.
+
+* Click on the `Code` button on the right. A dropdown should appear.
+
+* In the `Clone` menu, under the `HTTPS` tab, click on `Download ZIP`
+
+This simplest process is to Download ZIP.
+
+## Creator 
+
+* [Salim Ọlánrewájú Oyinlọlá](https://mobile.twitter.com/SalimOpines)
